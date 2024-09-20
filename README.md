@@ -84,6 +84,7 @@ A survey of mostly-open source braille displays and technologies
     * **Core Material** filter: NOT Alumina; Ceramic; Non-Magnetic
 
 * In-PCB flexure actuators
+    * [YouTube - Ultra-Thin Flexure Actuators with Printed Circuits](https://www.youtube.com/watch?v=wrnBW0HD0Vo)
 
 * Shape Memory Alloy (SMA) Wire
     * Nitinol Shape Memory Alloy (SMA) Wire
@@ -94,8 +95,6 @@ A survey of mostly-open source braille displays and technologies
 * Glove manufacturing techniques
 
 * Semi-rigid cable to top, with engine-like cam anchor
-
-* [YouTube - Ultra-Thin Flexure Actuators with Printed Circuits](https://www.youtube.com/watch?v=wrnBW0HD0Vo)
 
 * https://www.guysmagnets.com/neodymium-magnets-c11/guys-magnets-1-mm-x-0-5-mm-n52-high-grade-neodymium-disk-100-piece-pack-p27009
 

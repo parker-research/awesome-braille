@@ -91,6 +91,7 @@ A survey of mostly-open source braille displays and technologies
     * Singhal, A., Jain, P., Chanana, P., Jain, D., Paul, R., Balakrishnan, M., & Rao, P. V. M. (2013). Application of Shape Memory Alloy (SMA) Based Actuation for Refreshable Display of Braille. Volume 4: 18th Design for Manufacturing and the Life Cycle Conference; 2013 ASME/IEEE International Conference on Mechatronic and Embedded Systems and Applications. doi:10.1115/detc2013-13159 
 
 * MEMS Valves for pneumatic actuation, or MEMS actuators
+    * [DMQ’s silQflo™ Silicon Servo Valve (SSV)](https://dmq-us.com/wp-content/uploads/2015/02/SSV-Datasheet-Rev-1.001.pdf) is a MEMS based microvalve...
 
 * Glove manufacturing techniques
 

@@ -18,10 +18,20 @@ A survey of mostly-open source braille displays and technologies
     * Uses two rotating octagonal drums with Braille line combination.
 
 
-## Braille Display Projects - DIY
+* https://www.epfl.ch/labs/lmts/lmts-research/haptics/
+    * https://www.epfl.ch/labs/lmts/lmts-research/haptics/haptics_em/
+
+## Braille Display Projects - DIY and Open Source
 
 * 3D Printed Braille Display (unknown quality/completion): https://www.thingiverse.com/thing:90144
 * DIY Braille Display and input device: https://github.com/brailletouch/Brailletouch
+
+
+* MOLBED (Modular Low Cost Braille Electronic Display):
+    * https://www.instructables.com/MOLBED-Modular-Low-Cost-Braille-Electronic-Display/
+    * https://www.hackster.io/news/modular-low-cost-braille-electronic-display-molbed-f3872d53f0d3
+    * Pin Assembly: https://www.youtube.com/watch?v=eobXfH6CkRc
+
 
 ## Research and DIY Projects - Braille-like Haptic Displays
 
@@ -45,22 +55,16 @@ A survey of mostly-open source braille displays and technologies
 | Dist. between corresponding dots in cells (row-to-row)   | 10.0     | 10.2     | 10.00                      |
 
 
-### Work-in-Progress/Inspiration-Only References
-
-* MOLBED (Modular Low Cost Braille Electronic Display):
-    * https://www.instructables.com/MOLBED-Modular-Low-Cost-Braille-Electronic-Display/
-    * https://www.hackster.io/news/modular-low-cost-braille-electronic-display-molbed-f3872d53f0d3
-    * Pin Assembly: https://www.youtube.com/watch?v=eobXfH6CkRc
-* Software: https://libbraille.org/libbraille-a-software-to-easily-develop-braille-display/
-
-* [Optima Project](https://accessmind.io/optima.php) makes an entire "laptop", probably from a Framework device.
-
-* https://www.epfl.ch/labs/lmts/lmts-research/haptics/
-    * https://www.epfl.ch/labs/lmts/lmts-research/haptics/haptics_em/
-
 
 ## Braille Embossers
 * Braille Embosser (Printer): https://www.braillerap.org/en/
+
+## Software
+* [Libbraille: A Software To Easily Develop Braille Display](https://libbraille.org/libbraille-a-software-to-easily-develop-braille-display/)
+
+## Commercial Braille Displays
+
+* [Optima Project](https://accessmind.io/optima.php) makes an entire "laptop", probably from a Framework device.
 
 ## Ideas: Technologies and Materials/Parts for Open Source Braille Displays
 

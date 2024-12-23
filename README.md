@@ -100,3 +100,60 @@ A survey of mostly-open source braille displays and technologies
 * https://www.guysmagnets.com/neodymium-magnets-c11/guys-magnets-1-mm-x-0-5-mm-n52-high-grade-neodymium-disk-100-piece-pack-p27009
 
 * Pogo Pins
+
+## Commercial Braille Displays
+
+Commercial braille displays are insanely expensive. The cheapest options are around $700 for a 20-cell display, which is about $35 per cell. Prices range up to $250 per cell.
+
+### b.book
+
+* Supports 8-dot Braille.
+
+* [20-cell](https://specialneedscomputers.ca/products/b-note-20-or-40-cell-refreshable-braille-display) for $3,737.00
+    * $186.85 per cell
+    * Dimensions: 9.25 x 4.10 x 1.06 inches
+* [32-cell](https://specialneedscomputers.ca/products/b-book-32-cell-braille-notetaker) for $7,939.99
+    * $248.12 per cell
+* [40-cell](https://specialneedscomputers.ca/products/b-note-20-or-40-cell-refreshable-braille-display?variant=49438634311956) for $4,944.00
+    * $123.60 per cell
+    * Dimensions: 14.37 x 4.10 x 1.06 inches
+
+### Orbit
+
+* Supports 8-dot Braille.
+
+* [20-cell](https://www.orbitresearch.com/product/orbit-reader-20) for $699.00
+    * $34.95 per cell
+    * Dimensions: a little over an inch in height x 6 inches x 4 inches
+* [40-cell](https://www.orbitresearch.com/product/orbit-reader-40) for $1,699.00
+    * $42.48 per cell
+    * Dimensions: 29.5 x 9.6 x 3.3 cm, 750 grams
+
+### VarioUltra
+
+* Supports 8-dot Braille.
+
+* [VarioUltra 20 (20-cell)](https://canasstech.com/products/varioultra-20) for CA$4,185
+    * $209.25 per cell
+    * Dimensions: 18.8 x 8.9 x 2.0 cm, 320 g
+
+### Chameleon
+
+* Supports 8-dot Braille.
+
+* [Chameleon 20 (20-cell)](https://www.aph.org/product/chameleon-20/) for $1,715.00
+    * $85.75 per cell
+    * Dimensions: 3.66 x 7.16 x 0.9 in, 0.9 lbs
+
+### Brailliant
+
+* Supports 8-dot Braille.
+
+* [Brailliant BI 20X](https://www.bridges-canada.com/products/brailliant-bi-20x-braille-display) for CA$2,349
+    * CA$117.45 per cell
+
+    * Also available for [US$2,200](https://store.humanware.com/hus/brailliant-bi-20x-braille-display.html).
+
+### More Links
+
+* https://irie-at.com/product/basic-braille-series-displays/

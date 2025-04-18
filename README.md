@@ -59,8 +59,16 @@ A survey of open source, commercial, and research-based braille displays and tec
 ## Braille Embossers
 * Braille Embosser (Printer): https://www.braillerap.org/en/
 
-## Software
+* [Braillest](https://braillest.com) 3D printed embossing pages/sheets
+
+## Open Source Software
+
 * [Libbraille: A Software To Easily Develop Braille Display](https://libbraille.org/libbraille-a-software-to-easily-develop-braille-display/)
+
+* [Liblouis](https://liblouis.io) - An open-source braille translator, back-translator and formatter for a large number of languages and braille codes
+
+* [BrailleBlaster](https://www.brailleblaster.org) - A braille transcription program to help transcribers provide blind students with braille textbooks quickly
+
 
 ## Commercial Braille Displays
 

@@ -1,5 +1,5 @@
 # awesome-braille
-A survey of mostly-open source braille displays and technologies
+A survey of open source, commercial, and research-based braille displays and technologies
 
 ## Braille Display Projects - Research
 
